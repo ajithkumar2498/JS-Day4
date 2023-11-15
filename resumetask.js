@@ -8,3 +8,5 @@ let myresume=[{"role":"MERN STACK Developer"},{"fullname":{"fname":"ajithkumar",
 {"family":{"fathername":"Thandapani","mothername":"Deepa","sibling":"Thamodharan"}},
 {"Languesknown":{"Tamil":"95%","English":"65%"}},
 {"hobbies":{"cricket":"decentplayer","volleyball":"beginner"}}]
+
+console.log(myresume);
